@@ -1,6 +1,6 @@
 # Вопросы для собеседования на Java Developer
 
-+ [ООП](#ООП) ![icon][done]
++ [ООП](#ООП)
 + [JVM](#jvm) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
 + [Java Collections Framework](#java-collections) ![icon][done]
